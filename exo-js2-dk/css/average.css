@@ -1,0 +1,15 @@
+table {
+  border: solid purple;
+}
+
+tr {
+  color: darkorchid;
+}
+td {
+  border: solid magenta;
+  width: 300px;
+  }
+
+tr, td {
+  background-color: pink;
+}
