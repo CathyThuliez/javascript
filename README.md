@@ -1,1 +1,1 @@
-# javascript
+Cours et exercices de javascript
